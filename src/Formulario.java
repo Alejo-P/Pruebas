@@ -10,7 +10,7 @@ import java.text.ParseException;
 public class Formulario extends JFrame {
     public Formulario() {
         // Configuración del JFrame
-        setTitle("Formulario de Usuario");
+        setTitle("Ventana de ejemplo");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(300, 200);
         setLayout(new GridLayout(3, 2));
